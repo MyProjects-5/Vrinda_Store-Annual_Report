@@ -9,12 +9,12 @@ Vrinda store aims to create an annual sales report to understand customer behavi
      
 Key Skills Learned:-    
     
--Data Cleaning.   
--High level data analysis in MS Excel.   
--Building and sharing interactive Excel Dashboards.    
--Visualizing data with charts in MS Excel.    
--Identifying business problem using Excel.    
--Creating Excel Dashboards with various visuals.
+  -Data Cleaning.   
+  -High level data analysis in MS Excel.   
+  -Building and sharing interactive Excel Dashboards.    
+  -Visualizing data with charts in MS Excel.    
+  -Identifying business problem using Excel.    
+  -Creating Excel Dashboards with various visuals.
           
          
 Questions:-      
