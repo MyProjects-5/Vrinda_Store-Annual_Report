@@ -30,8 +30,8 @@ Key Insights :-
 * The adult age group(30-49 years) contributed the most to sales.
 * The channels with the highest sales contribution were Amazon, Flipkart and Myntra.
   
-The conclusion of the analysis is :-
-1). Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.
-2). Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.
-3). Improve order status for better customer satisfaction and efficiency.
+The conclusion of the analysis is :-      
+1). Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.         
+2). Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
+3). Improve order status for better customer satisfaction and efficiency.     
 
