@@ -39,7 +39,7 @@ Vrinda store aims to create an annual sales report to understand customer behavi
 
 
 
-# Screenshot of Analysis
+# Screenshot of Analysis :-
 # Output
 
 ![Screenshot 2024-02-02 124524](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8aaaf21f-31df-41fe-93a7-9cae5d958750)
