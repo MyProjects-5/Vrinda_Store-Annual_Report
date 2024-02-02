@@ -14,8 +14,8 @@ Key Skills Learned:-
 -Visualizing data with charts in MS Excel.    
 -Identifying business problem using Excel.    
 -Creating Excel Dashboards with various visuals.
-
-
+          
+         
 Questions:-      
 1. How do the sales and orders of store compare using a single chart?
 2. Who purchased more Men or Women in the year?
