@@ -9,7 +9,7 @@ Vrinda store aims to create an annual sales report to understand customer behavi
      
 Key Skills Learned :-    
   |   -Data Cleaning.   
-  |  -High level data analysis in MS Excel.   
+  |   -High level data analysis in MS Excel.   
   |   -Building and sharing interactive Excel Dashboards.    
   |   -Visualizing data with charts in MS Excel.    
   |   -Identifying business problem using Excel.    
@@ -36,4 +36,23 @@ The conclusion of the analysis is :-
 1). Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.         
 2). Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
 3). Improve order status for better customer satisfaction and efficiency.     
+
+
+
+# Screenshot of Analysis
+# Output
+
+![Screenshot 2024-02-02 124524](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8aaaf21f-31df-41fe-93a7-9cae5d958750)
+
+
+![Screenshot 2024-02-02 125030](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8d486b22-08a4-42e1-a581-4c6b01f8405a)
+
+
+![Screenshot 2024-02-02 124617](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/40e9a853-8b09-4dc3-8f3c-cee04b55c527)
+
+
+![Screenshot 2024-02-02 124821](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/80739270-cbfd-43d6-899b-2d5a8d3de7da)
+
+
+
 
