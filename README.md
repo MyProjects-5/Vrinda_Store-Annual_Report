@@ -31,9 +31,9 @@ Vrinda store aims to create an annual sales report to understand customer behavi
 
       
 # The conclusion of the analysis is :-      
-1). Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.         
-2). Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
-3). Improve order status for better customer satisfaction and efficiency.     
+- Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.         
+- Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
+- Improve order status for better customer satisfaction and efficiency.     
 
 
 
