@@ -2,8 +2,7 @@
 I am very excited to share my Microsoft Excel Project of Vrinda Store.
 
 ## Project Objective :-
-Vrinda store aims to create an annual sales report to understand customer behaviour and enhance sales in next year.    
-            
+Vrinda store aims to create an annual sales report to understand customer behaviour and enhance sales in next year.         
      
 ### 📌 Key Skills Learned :-    
 - Data Cleaning.   
@@ -12,8 +11,7 @@ Vrinda store aims to create an annual sales report to understand customer behavi
 - Visualizing data with charts in MS Excel.    
 - Identifying business problem using Excel.    
 - Creating Excel Dashboards with various visuals.
-          
-                       
+                
 ### 📌 Questions :-
 1. How do the sales and orders of store compare using a single chart?
 2. Who purchased more Men or Women in the year?
@@ -27,27 +25,16 @@ Vrinda store aims to create an annual sales report to understand customer behavi
 * Women made more purchases compared to men.
 * The adult age group(30-49 years) contributed the most to sales.
 * The channels with the highest sales contribution were Amazon, Flipkart and Myntra.
-                      
-
-      
+        
 ## The Conclusion of the Analysis :-      
 - Focus on women customer in the adult age group from Maharashtra, Karnataka and Uttar pradesh for marketing.         
 - Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
 - Improve order status for better customer satisfaction and efficiency.     
 
-
-
 ## Screenshot of the Analysis :-
-
 ![Screenshot 2024-02-02 124524](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8aaaf21f-31df-41fe-93a7-9cae5d958750)
-
-
 ![Screenshot 2024-02-02 125030](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8d486b22-08a4-42e1-a581-4c6b01f8405a)
-
-
 ![Screenshot 2024-02-02 124617](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/40e9a853-8b09-4dc3-8f3c-cee04b55c527)
-
-
 ![Screenshot 2024-02-02 124821](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/80739270-cbfd-43d6-899b-2d5a8d3de7da)
 
 
