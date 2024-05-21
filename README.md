@@ -31,6 +31,9 @@ Vrinda store aims to create an annual sales report to understand customer behavi
 - Implementing distinct sales, advertisements and coupons during the month of March could prove beneficial in boosting sales and enhancing customer engagement.        
 - Improve order status for better customer satisfaction and efficiency.     
 
+## DashBoard Vedio :-
+https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/186706a9-caab-4df4-850b-354dfbf14917
+
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-02-02 124524](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8aaaf21f-31df-41fe-93a7-9cae5d958750)
 ![Screenshot 2024-02-02 125030](https://github.com/MyProjects-5/Vrinda_Store-Annual_Report/assets/140932670/8d486b22-08a4-42e1-a581-4c6b01f8405a)
