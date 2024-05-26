@@ -1,4 +1,4 @@
-# Vrinda Store Annual Report
+# Vrinda Store Annual Repor
 I am very excited to share my Microsoft Excel Project of Vrinda Store.
 
 ## Project Objective :-
